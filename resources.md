@@ -2,7 +2,7 @@
 
 ## Primary source
 
-- [{{COURSE_NAME}}]({{COURSE_URL}})
+- [Effective Go and Google Go Style Guide](https://go.dev/doc/effective_go)
 
 ## Supplementary
 

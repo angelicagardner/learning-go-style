@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This is my personal learning log for **{{COURSE_NAME}}** (<{{COURSE_URL}}>).
+This is my personal learning log for **Effective Go and Google Go Style Guide** (<https://go.dev/doc/effective_go>).
 The goal is that I understand the material. Optimise for my understanding,
 not for finished-looking notes.
 

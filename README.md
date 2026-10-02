@@ -1,23 +1,34 @@
-# {{COURSE_NAME}}
+# Effective Go and Google Go Style Guide
 
 My notes, exercises and reflections while working through
-[{{COURSE_NAME}}]({{COURSE_URL}}).
+[Effective Go](https://go.dev/doc/effective_go) and [Google Go Style Guide](https://google.github.io/styleguide/go/guide).
 
 > This is a personal learning log, not a copy of the course. Notes are written in
-> my own words and link back to the original material — go there for the real thing.
+> my own words and link back to the original material. Go there for the real
+> words/material and to keep track of any updates that might have happened.
 
 ## Course info
 
 | | |
 |---|---|
-| Source | <{{COURSE_URL}}> |
-| Started | {{START_DATE}} |
+| Source | <https://go.dev/doc/effective_go> |
+| Started | 2026-10-02 |
 | Status | In progress |
-| Code | {{LANG}} |
+| Code | Go |
+
+and
+
+| | |
+|---|---|
+| Source | <https://google.github.io/styleguide/go/guide> |
+| Started | Todo |
+| Status | Todo |
+| Code | Go |
 
 ## Why I'm taking this
 
-<!-- 2–3 sentences: what I want to be able to do afterwards, and why now. -->
+I want to become more familiar with different ways of writing go and maybe dive
+a bit deeper into the language to increase my understanding of it.
 
 ## Outcomes
 
@@ -43,4 +54,5 @@ resources.md               extra reading, related papers and talks
 ## License
 
 Notes: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ·
-Code: MIT. Course material belongs to its authors; see the source for its license.
+
+Course material belongs to its authors; see the source for its license.
