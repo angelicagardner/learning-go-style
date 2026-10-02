@@ -39,6 +39,7 @@ a bit deeper into the language to increase my understanding of it.
 <!-- progress:start -->
 | # | Module | Status |
 |---|--------|--------|
+| 01 | [Formatting and commentary](modules/01-formatting-and-commentary/notes.md) | not started |
 <!-- progress:end -->
 
 ## Layout
